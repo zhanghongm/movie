@@ -1,0 +1,30 @@
+{
+  "id": "2310147",
+  "name": "bk2004",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11740105",
+      "name": "影院",
+      "font_class": "yingyuan",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "1473243",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "12558604",
+      "name": "我 的 (1)",
+      "font_class": "wode",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
